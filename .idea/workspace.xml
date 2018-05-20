@@ -51,11 +51,21 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="402">
-                <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <first_editor relative-caret-position="131">
+                <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Variables/Integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +147,7 @@
         <option value="$PROJECT_DIR$/5_ToEscapeQuotes.py" />
         <option value="$PROJECT_DIR$/6_TripleQuotes.py" />
         <option value="$PROJECT_DIR$/Basics/4_TabbedFunction.py" />
+        <option value="$PROJECT_DIR$/Variables/Integer.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -203,7 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Basics" />
+              <option name="myItemId" value="Variables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,7 +234,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4_TabbedFunction (1)">
+  <component name="RunManager" selected="Python.Integer">
     <configuration default="false" name="3_SplitFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,23 +248,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="C:\Users\Adwiti\PythonWS\Basics\3_SplitFunction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="4_TabbedFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="C:\Users\Adwiti\PythonWS\Basics\4_TabbedFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -305,6 +299,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/4_TabbedFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Variables/Integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -747,18 +758,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.3_SplitFunction" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4_TabbedFunction" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5_ToEscapeQuotes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.6_TripleQuotes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4_TabbedFunction (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.5_ToEscapeQuotes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.6_TripleQuotes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4_TabbedFunction (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Integer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4_TabbedFunction (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.6_TripleQuotes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5_ToEscapeQuotes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3_SplitFunction" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4_TabbedFunction" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Integer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4_TabbedFunction (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.6_TripleQuotes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5_ToEscapeQuotes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3_SplitFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -791,11 +802,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.50449437" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24637681" sideWeight="0.49550563" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5641026" sideWeight="0.49550563" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118336886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118336886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -873,6 +884,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Variables/Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -887,8 +906,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="402">
-            <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <first_editor relative-caret-position="131">
+            <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
