@@ -150,3 +150,64 @@
     print("Value of pi is %12.50f" % (22 / 7))
     # output will be
     # Value of pi is 3.14285714285714279370154144999105483293533325195312
+
+# If Else Function
+
+    print("Enter a number in between 1 and 10")
+    guess = int(input())
+    
+    if guess < 5:
+        print("Please enter a higher value")
+        guess = int(input())
+        if guess == 5:
+            print("You have guessed it right")
+        else:
+            print("Sorry you are wrong")
+    elif guess > 5:
+        print("Please enter a lower value")
+        guess = int(input())
+        if guess == 5:
+            print("You have guessed it right")
+        else:
+            print("Sorry you are wrong")
+    else:
+        print("You are right the first time")
+    
+    # the above code had duplication, lets improve it
+    
+    print("Please enter again for better code")
+    guess = int(input())
+    
+    if guess != 5:
+        if guess > 5:
+            print("Please guess it lower")
+        else:
+            print("Please guess it higher")
+    
+        guess = int(input())
+    
+        if guess == 5:
+            print("you guessed it right")
+        else:
+            print("Sorry you are wrong")
+    else:
+        print("You guessed it correct the first time")
+
+# Complex if else
+
+    age = int(input("Enter your age : "))
+    if (age > 15) and (age < 65):
+        print("Have a good day at work")
+    else:
+        print("Please enjoy your free time")
+    
+    if 15 < age < 65:
+        print("Have a good day at work")
+    else:
+        print("Please enjoy your free time")
+    
+    age = int(input("Please enter the age again"))
+    if (age < 16) or (age > 64):
+        print("Please enjoy your free time")
+    else:
+        print("Have a good day at work")
