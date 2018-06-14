@@ -39,7 +39,6 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py" afterPath="$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" />
@@ -104,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtractCapitalLetter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExtractCapitalLetter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForLoopWithStep.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FlowControl/ForLoopWithStep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -119,16 +128,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputFunction.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/InputFunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -207,6 +206,7 @@
         <option value="$PROJECT_DIR$/FlowControl/ForLoopDetail.py" />
         <option value="$PROJECT_DIR$/FlowControl/AdvancedLoop.py" />
         <option value="$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py" />
+        <option value="$PROJECT_DIR$/FlowControl/ForLoopWithStep.py" />
       </list>
     </option>
   </component>
@@ -320,24 +320,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ExtractCapitalLetter">
-    <configuration default="false" name="IfElseExercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlowControl" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/IfElseExercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ForLoopWithStep">
     <configuration default="false" name="ChallengeIfElse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,6 +385,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ForLoopWithStep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlowControl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/ForLoopWithStep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -843,19 +843,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.IfElseExercise" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
-      <item index="3" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IfElseExercise" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
       </list>
     </recent_temporary>
   </component>
@@ -893,7 +893,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16059957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -923,13 +923,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/3_SplitFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/6_TripleQuotes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1337,6 +1330,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowControl/ForLoopWithStep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
           <folding />
         </state>
       </provider>
