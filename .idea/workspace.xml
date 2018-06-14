@@ -113,11 +113,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForLoopWithStep.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ForLoopWithStep.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlowControl/ForLoopWithStep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+            <state relative-caret-position="66">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContineBreakElse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FlowControl/ContineBreakElse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -128,16 +138,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrueAndFalse.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/TrueAndFalse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -207,6 +207,7 @@
         <option value="$PROJECT_DIR$/FlowControl/AdvancedLoop.py" />
         <option value="$PROJECT_DIR$/FlowControl/ExtractCapitalLetter.py" />
         <option value="$PROJECT_DIR$/FlowControl/ForLoopWithStep.py" />
+        <option value="$PROJECT_DIR$/FlowControl/ContineBreakElse.py" />
       </list>
     </option>
   </component>
@@ -320,24 +321,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ForLoopWithStep">
-    <configuration default="false" name="ChallengeIfElse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlowControl" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/ChallengeIfElse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ContineBreakElse">
     <configuration default="false" name="ForLoopDetail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,6 +386,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/ForLoopWithStep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContineBreakElse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlowControl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl/ContineBreakElse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -843,19 +844,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ContineBreakElse" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ChallengeIfElse" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ContineBreakElse" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ForLoopWithStep" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ExtractCapitalLetter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.AdvancedLoop" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ForLoopDetail" />
       </list>
     </recent_temporary>
   </component>
@@ -923,13 +924,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/6_TripleQuotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/2_InputFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1336,8 +1330,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlowControl/ForLoopWithStep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowControl/ContineBreakElse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding />
         </state>
       </provider>
