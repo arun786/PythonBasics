@@ -31,3 +31,11 @@ J
 FlowControl/TreeProgram.py,6\4\64553d846616b69fc7c047b485ecb84f22eb0fe2
 F
 Basics/TrueAndFalse.py,7\2\72d6dea5191a1eaa8b4c4363b16656500205e776
+M
+FlowControl/IfElseExercise.py,9\e\9ef604f0a395135852601609aa2ed7a2bfdbca5d
+N
+FlowControl/ChallengeIfElse.py,d\c\dc0791a2e0b183cf856dc3f890842db42f843035
+L
+FlowControl/ForLoopDetail.py,8\9\894be8cc27180d61875243537967a1a6a193b034
+K
+FlowControl/AdvancedLoop.py,8\4\8446aca674ace3e3c349bec272f6dcf103bf4a4e
