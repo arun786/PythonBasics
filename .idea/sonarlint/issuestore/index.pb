@@ -39,3 +39,9 @@ L
 FlowControl/ForLoopDetail.py,8\9\894be8cc27180d61875243537967a1a6a193b034
 K
 FlowControl/AdvancedLoop.py,8\4\8446aca674ace3e3c349bec272f6dcf103bf4a4e
+S
+#FlowControl/ExtractCapitalLetter.py,2\8\28f02d6d9fe5cbc33fd6027bf202de4972e870ac
+N
+FlowControl/ForLoopWithStep.py,6\2\62d8dd6c3895e5914eb2a7d750aa60dcaca0870c
+O
+FlowControl/ContineBreakElse.py,d\f\dfa32fdfa1a5378e16ed6b8be546984f6de49c3d
