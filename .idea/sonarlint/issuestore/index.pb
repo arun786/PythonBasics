@@ -45,3 +45,13 @@ N
 FlowControl/ForLoopWithStep.py,6\2\62d8dd6c3895e5914eb2a7d750aa60dcaca0870c
 O
 FlowControl/ContineBreakElse.py,d\f\dfa32fdfa1a5378e16ed6b8be546984f6de49c3d
+M
+FlowControl/BreakChallenge.py,0\f\0f5fff17518e1e49d83fa34e5e9ce83db0c582b3
+[
++FlowControl/PrintNumbersBasedOnCondition.py,4\a\4ad009ad091144db253d7f9f1f369836ba5a04b3
+P
+ FlowControl/AugmentedOperator.py,a\b\ab49aa900ea0e074dda6d637ae2e422eae302119
+R
+"FlowControl/AugmentedAssignment.py,d\2\d28fedb11bbe442a3d290c5f2aea370c2d96ec74
+I
+ProgramFlow/Challenge1.py,7\6\76ef013ce62ac4316fce86a38404442d8657872c
