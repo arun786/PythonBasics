@@ -54,4 +54,14 @@ P
 R
 "FlowControl/AugmentedAssignment.py,d\2\d28fedb11bbe442a3d290c5f2aea370c2d96ec74
 I
-ProgramFlow/Challenge1.py,7\6\76ef013ce62ac4316fce86a38404442d8657872c
+FlowControl/Challenge1.py,4\7\47878506691507bd9f1ab32b6e210d7bcaf6c52f
+O
+WhileLoop/WhileLoopExplained.py,d\0\d05acf9e992372bab753742927ee360f2d9793a4
+H
+WhileLoop/UseOfRandom.py,8\2\8215bc5bcea55e748b9c3b90158fbbf43f1b7359
+Q
+!WhileLoop/UseOfRandomChallenge.py,3\0\309b9a7cfaedf5989dbe036974be831dc5a41414
+U
+%SequenceTypes/ListsExplained/lists.py,d\e\de191756f84a1391137401e26acf93da0059884b
+W
+'SequenceTypes/ListsExplained/Lists_2.py,c\9\c917ecfd387d234c376c3b2b17eff5bb29a181b6
