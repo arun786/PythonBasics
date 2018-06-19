@@ -93,16 +93,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lists_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SequenceTypes/ListsExplained/Lists_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SequenceTypes/ListsExplained/lists.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lists.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lists.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Documentation/Lists.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="299">
+              <first_editor relative-caret-position="584">
                 <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -143,6 +133,26 @@
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iterators/Iterators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IteratorsChallenge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iterators/IteratorsChallenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -229,6 +239,8 @@
         <option value="$PROJECT_DIR$/SequenceTypes/ListsExplained/ForLoopAdvancedWithList.py" />
         <option value="$PROJECT_DIR$/SequenceTypes/ListsExplained/ForLoopAdvancedWithListChallenge.py" />
         <option value="$PROJECT_DIR$/Documentation/Lists.md" />
+        <option value="$PROJECT_DIR$/Iterators/Iterators.py" />
+        <option value="$PROJECT_DIR$/Iterators/IteratorsChallenge.py" />
       </list>
     </option>
   </component>
@@ -354,6 +366,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Iterators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-Basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="FlowControl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -403,41 +429,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ForLoopAdvancedWithListChallenge">
-    <configuration default="false" name="SortedAndSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SequenceTypes/ListsExplained" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/ListsExplained/SortedAndSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="WaysOfDefiningAList" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SequenceTypes/ListsExplained" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/ListsExplained/WaysOfDefiningAList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.IteratorsChallenge">
     <configuration default="false" name="AddingTwoList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -485,6 +477,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/ListsExplained/ForLoopAdvancedWithListChallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/Iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IteratorsChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/IteratorsChallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -926,19 +952,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SortedAndSort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.WaysOfDefiningAList" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AddingTwoList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithList" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithListChallenge" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AddingTwoList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithList" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithListChallenge" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Iterators" />
+      <item index="4" class="java.lang.String" itemvalue="Python.IteratorsChallenge" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithListChallenge" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithList" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AddingTwoList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SortedAndSort" />
-        <item index="4" class="java.lang.String" itemvalue="Python.WaysOfDefiningAList" />
+        <item index="0" class="java.lang.String" itemvalue="Python.IteratorsChallenge" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Iterators" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithListChallenge" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ForLoopAdvancedWithList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AddingTwoList" />
       </list>
     </recent_temporary>
   </component>
@@ -962,7 +988,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -970,7 +996,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.50449437" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4297235" sideWeight="0.49550563" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4297235" sideWeight="0.49550563" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1006,20 +1032,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/3_SplitFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/4_TabbedFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/1_HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1387,7 +1399,7 @@
     <entry file="file://$PROJECT_DIR$/Documentation/Lists.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="299">
+          <first_editor relative-caret-position="584">
             <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1403,6 +1415,22 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators/IteratorsChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
