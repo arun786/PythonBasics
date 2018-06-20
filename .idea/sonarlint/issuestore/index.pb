@@ -65,3 +65,23 @@ U
 %SequenceTypes/ListsExplained/lists.py,d\e\de191756f84a1391137401e26acf93da0059884b
 W
 'SequenceTypes/ListsExplained/Lists_2.py,c\9\c917ecfd387d234c376c3b2b17eff5bb29a181b6
+c
+3SequenceTypes/ListsExplained/WaysOfDefiningAList.py,3\6\3664429ca7a855605abafe0bc4bd66bc4967e7de
+]
+-SequenceTypes/ListsExplained/AddingTwoList.py,2\b\2b085e68f436adcc87475f177e964e057f55cd20
+c
+3SequenceTypes/ListsExplained/ListsEqualsVsMemory.py,2\8\288b1e28e1dc6b2f2a9cb4bc1c108dd2f011a238
+]
+-SequenceTypes/ListsExplained/SortedAndSort.py,7\d\7d49a205c29dfdc44a8553fe5a7e3d47844779c7
+g
+7SequenceTypes/ListsExplained/ForLoopAdvancedWithList.py,7\9\79b2308fe9fbc86c637266f644c72507eb885b18
+p
+@SequenceTypes/ListsExplained/ForLoopAdvancedWithListChallenge.py,f\9\f9f28ab8faaa67a4ecc09128a3b482e0ba08e83d
+F
+Documentation/Lists.md,9\1\91d5239eb6d1adb34d4a4e937410155fafebe0b9
+F
+Iterators/Iterators.py,1\1\11bd9dea18145686b83d3e052de7ff741e43bed1
+O
+Iterators/IteratorsChallenge.py,a\a\aa889b3f4acb237c0a389b982b37a4ceaa5cc840
+I
+Documentation/Iterator.md,f\5\f5b35a9228e13fb8bb5ddb7ebb19d508756836d8
