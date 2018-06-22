@@ -18,3 +18,5 @@ print(small_decimals.index(3))  # 3
 
 odd = range(1, 10000, 2)
 print(odd[985])  # 1971
+
+

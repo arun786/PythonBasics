@@ -85,3 +85,9 @@ O
 Iterators/IteratorsChallenge.py,a\a\aa889b3f4acb237c0a389b982b37a4ceaa5cc840
 I
 Documentation/Iterator.md,f\5\f5b35a9228e13fb8bb5ddb7ebb19d508756836d8
+E
+Challenge/LeapYear.py,3\2\32394021a69e41b1e0baf43d2059c30d610e70df
+J
+Documentation/Challenge.md,1\7\179e4d2a1321a4d030177000f8b8d4fb47bf799c
+U
+%SequenceTypes/RangeExplained/Range.py,8\3\83560e0a359465d8b0bac17f288a65a6b758a4cc
