@@ -120,33 +120,19 @@
       <file leaf-file-name="MoreOnRanges.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/MoreOnRanges.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="-215">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="range.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Documentation/range.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="326">
-                <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Challenge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/Challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloWorld.py" />
         <option value="$PROJECT_DIR$/2_InputFunction.py" />
         <option value="$PROJECT_DIR$/4_TabbedFunction.py" />
         <option value="$PROJECT_DIR$/3_SplitFunction.py" />
@@ -222,6 +207,7 @@
         <option value="$PROJECT_DIR$/SequenceTypes/RangeExplained/AdvancedRange.py" />
         <option value="$PROJECT_DIR$/SequenceTypes/RangeExplained/MoreOnRanges.py" />
         <option value="$PROJECT_DIR$/Documentation/range.md" />
+        <option value="$PROJECT_DIR$/SequenceTypes/RangeExplained/Challenge.py" />
       </list>
     </option>
   </component>
@@ -442,24 +428,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MoreOnRanges">
-    <configuration default="false" name="IteratorsChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/IteratorsChallenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Challenge">
     <configuration default="false" name="LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -524,6 +493,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/RangeExplained/MoreOnRanges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SequenceTypes/RangeExplained" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/RangeExplained/Challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -952,19 +938,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.IteratorsChallenge" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeapYear" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Range" />
-      <item index="3" class="java.lang.String" itemvalue="Python.AdvancedRange" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeapYear" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Range" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AdvancedRange" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Challenge" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
-        <item index="1" class="java.lang.String" itemvalue="Python.AdvancedRange" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Range" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeapYear" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IteratorsChallenge" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Challenge" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AdvancedRange" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Range" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -1032,13 +1018,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/4_TabbedFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/3_SplitFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1426,14 +1405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/MoreOnRanges.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Documentation/range.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1448,11 +1419,27 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="326">
-            <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <first_editor relative-caret-position="1848">
+            <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/MoreOnRanges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
