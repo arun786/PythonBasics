@@ -91,3 +91,9 @@ J
 Documentation/Challenge.md,1\7\179e4d2a1321a4d030177000f8b8d4fb47bf799c
 U
 %SequenceTypes/RangeExplained/Range.py,8\3\83560e0a359465d8b0bac17f288a65a6b758a4cc
+F
+Documentation/range.md,7\1\716d3f545ee435563283ae56ace399110d680769
+]
+-SequenceTypes/RangeExplained/AdvancedRange.py,b\7\b71808a8c98ed5f9bbd39f3c60c3d5778720259a
+\
+,SequenceTypes/RangeExplained/MoreOnRanges.py,e\0\e0b99d01fcb871444ea1e151fc54416f105c709e
