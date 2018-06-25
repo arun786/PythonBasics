@@ -141,8 +141,8 @@
       <file leaf-file-name="RangeWithNegativeSteps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/RangeWithNegativeSteps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="45" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="95" />
+            <state relative-caret-position="424">
+              <caret line="60" column="71" selection-start-line="47" selection-start-column="0" selection-end-line="60" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -153,7 +153,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="326">
-                <caret line="154" column="99" selection-start-line="154" selection-start-column="99" selection-end-line="154" selection-end-column="99" />
+                <caret line="171" column="75" selection-start-line="171" selection-start-column="75" selection-end-line="171" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1451,8 +1451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/RangeWithNegativeSteps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="45" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="95" />
+        <state relative-caret-position="424">
+          <caret line="60" column="71" selection-start-line="47" selection-start-column="0" selection-end-line="60" selection-end-column="71" />
           <folding />
         </state>
       </provider>
@@ -1461,7 +1461,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="326">
-            <caret line="154" column="99" selection-start-line="154" selection-start-column="99" selection-end-line="154" selection-end-column="99" />
+            <caret line="171" column="75" selection-start-line="171" selection-start-column="75" selection-end-line="171" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
