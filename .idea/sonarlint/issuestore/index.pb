@@ -99,3 +99,5 @@ F
 ,SequenceTypes/RangeExplained/MoreOnRanges.py,e\0\e0b99d01fcb871444ea1e151fc54416f105c709e
 Y
 )SequenceTypes/RangeExplained/Challenge.py,3\7\37f08e6728b593e0d387f9c80188f5046e83d983
+f
+6SequenceTypes/RangeExplained/RangeWithNegativeSteps.py,a\4\a4cf55730798ac14acc990568ea5b27307223e33
