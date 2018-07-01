@@ -2,47 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121f8491-e263-42c1-a1ac-5e7638f811ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/Java-data-structures-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/Algorithm/Sorting/InsertionSort.class" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/LinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/hg.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/Algorithm/Sorting/InsertionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/ScalaBasics.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/Java-data-structures.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/Algorithm/Sorting/InsertionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/LinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/pom.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/Node.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/Java-data-structures.iml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/hg.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/Java-data-structures-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/LinkedList.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/Algorithm/Sorting/InsertionSort.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/model/Person.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/model/Person.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" />
     </list>
     <ignored path="Python-Basics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,16 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeapYear.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Challenge/LeapYear.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Challenge.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Documentation/Challenge.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -162,7 +152,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="325">
+              <first_editor relative-caret-position="3762">
                 <caret line="171" column="75" selection-start-line="171" selection-start-column="75" selection-end-line="171" selection-end-column="75" />
                 <folding />
               </first_editor>
@@ -174,8 +164,18 @@
       <file leaf-file-name="BasicsOfTuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SequenceTypes/Tuples/BasicsOfTuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state relative-caret-position="1056">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoreOnTuples.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SequenceTypes/Tuples/MoreOnTuples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -196,8 +196,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="699">
-                <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+              <first_editor relative-caret-position="673">
+                <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -225,7 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5_ToEscapeQuotes.py" />
         <option value="$PROJECT_DIR$/6_TripleQuotes.py" />
         <option value="$PROJECT_DIR$/Basics/4_TabbedFunction.py" />
         <option value="$PROJECT_DIR$/Variables/Integer.py" />
@@ -275,6 +274,7 @@
         <option value="$PROJECT_DIR$/SequenceTypes/RangeExplained/RangeWithNegativeSteps.py" />
         <option value="$PROJECT_DIR$/Documentation/range.md" />
         <option value="$PROJECT_DIR$/SequenceTypes/Tuples/BasicsOfTuple.py" />
+        <option value="$PROJECT_DIR$/SequenceTypes/Tuples/MoreOnTuples.py" />
         <option value="$PROJECT_DIR$/Documentation/Tuple.md" />
       </list>
     </option>
@@ -310,9 +310,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -328,34 +325,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WhileLoop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Variables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,78 +360,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iterators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlowControl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Challenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonWS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,24 +380,7 @@
       <recent name="C:\Users\Adwiti\PythonWS\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BasicsOfTuple">
-    <configuration default="false" name="AdvancedRange" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SequenceTypes/RangeExplained" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonWS" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/RangeExplained/AdvancedRange.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.MoreOnTuples">
     <configuration default="false" name="MoreOnRanges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -560,6 +445,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonWS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/Tuples/BasicsOfTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MoreOnTuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SequenceTypes/Tuples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonWS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceTypes/Tuples/MoreOnTuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -988,19 +890,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.AdvancedRange" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Challenge" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RangeWithNegativeSteps" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BasicsOfTuple" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Challenge" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RangeWithNegativeSteps" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BasicsOfTuple" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MoreOnTuples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BasicsOfTuple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RangeWithNegativeSteps" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Challenge" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.AdvancedRange" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MoreOnTuples" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BasicsOfTuple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RangeWithNegativeSteps" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Challenge" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MoreOnRanges" />
       </list>
     </recent_temporary>
   </component>
@@ -1037,7 +939,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16059957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16059957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1094,13 +996,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/4_TabbedFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/5_ToEscapeQuotes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1418,7 +1313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1441,14 +1335,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/Range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1498,7 +1384,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="325">
+          <first_editor relative-caret-position="3762">
             <caret line="171" column="75" selection-start-line="171" selection-start-column="75" selection-end-line="171" selection-end-column="75" />
             <folding />
           </first_editor>
@@ -1508,8 +1394,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SequenceTypes/Tuples/BasicsOfTuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        <state relative-caret-position="1056">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/RangeExplained/Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/Tuples/MoreOnTuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1528,8 +1430,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="699">
-            <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <first_editor relative-caret-position="673">
+            <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

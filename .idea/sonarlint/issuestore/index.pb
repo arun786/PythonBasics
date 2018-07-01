@@ -101,3 +101,9 @@ Y
 )SequenceTypes/RangeExplained/Challenge.py,3\7\37f08e6728b593e0d387f9c80188f5046e83d983
 f
 6SequenceTypes/RangeExplained/RangeWithNegativeSteps.py,a\4\a4cf55730798ac14acc990568ea5b27307223e33
+U
+%SequenceTypes/Tuples/BasicsOfTuple.py,0\1\01e09c6061ceb89c8bec9379805d6469be82565d
+F
+Documentation/Tuple.md,0\f\0f26a51f2e2777780b7664bbd0ee6c9eef4f2020
+T
+$SequenceTypes/Tuples/MoreOnTuples.py,0\2\0259ec23f1916249a601c6476ce9e581264efb5a
